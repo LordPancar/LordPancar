@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Sancar 👋</h1>
+<h1 align="center">Merhaba, ben Sancar </h1>
 
 <p align="center">
   <b>Bilgisayar Mühendisliği öğrencisi</b> · Eskişehir Teknik Üniversitesi (2022–2026)<br>
@@ -8,17 +8,17 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sancar-erdogan-152ba92b2">LinkedIn</a> ·
   <a href="mailto:sssancarerdogan@gmail.com">E-posta</a> ·
-  📍 Eskişehir, Türkiye
+  Eskişehir, Türkiye
 </p>
 
 ---
 
-### 🚀 Hakkımda
+###  Hakkımda
 
-- 🔭 **Şu sıralar:** TEI (TUSAŞ Engine Industries) bünyesinde yaz stajı yapıyorum
-- 🌱 **Odağım:** yapay zekâ / makine öğrenmesi, yazılım mimarisi, veri tabanı yönetimi ve savunma teknolojileri
-- 🎓 **Eğitim:** Bilgisayar Mühendisliği, Eskişehir Teknik Üniversitesi — GPA 3.39 / 4.00
-- 💬 **Diller:** Türkçe (ana dil), İngilizce (C1)
+- **Şu sıralar:** TEI (TUSAŞ Engine Industries) bünyesinde yaz stajı yapıyorum
+- **Odağım:** yapay zekâ / makine öğrenmesi, yazılım mimarisi, veri tabanı yönetimi ve savunma teknolojileri
+- **Eğitim:** Bilgisayar Mühendisliği, Eskişehir Teknik Üniversitesi — GPA 3.39 / 4.00
+- **Diller:** Türkçe (ana dil), İngilizce (C1)
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 💼 Deneyim
+### Deneyim
 
 - **Yaz Stajyeri** — *TEI (TUSAŞ Engine Industries)*, Eskişehir · 2026
 - **Stajyer Mühendis** — *ASELSAN*, Ankara · Ağu 2025 – Eyl 2025
@@ -38,7 +38,7 @@
 
 ---
 
-### 📌 Öne Çıkan Projeler
+### Öne Çıkan Projeler
 
 | Proje | Açıklama |
 |-------|----------|
@@ -50,7 +50,7 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+### GitHub İstatistikleri
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=LordPancar&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
