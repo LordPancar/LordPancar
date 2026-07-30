@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://github.com/LordPancar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Merhaba%2C%20ben%20Sancar%3BBilgisayar%20M%C3%BChendisli%C4%9Fi%20%C3%B6%C4%9Frencisi%3BYaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici%20%20%7C%20%20.NET%20%26%20C%23" alt="Sancar Erdoğan" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" alt="" />
+
+<h1 align="center">Merhaba, ben Sancar</h1>
 
 <p align="center">
   <b>Bilgisayar Mühendisliği öğrencisi</b> · Eskişehir Teknik Üniversitesi (2022–2026)<br>
@@ -78,3 +76,5 @@
 ---
 
 <p align="center"><i>Öğrenmeye ve üretmeye devam.</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=true" alt="" />
