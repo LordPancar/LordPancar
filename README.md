@@ -17,7 +17,7 @@
 
 - **Şu sıralar:** TEI (TUSAŞ Engine Industries) bünyesinde yaz stajı yapıyorum
 - **Odağım:** yapay zekâ / makine öğrenmesi, dağıtık sistemler, yazılım mimarisi ve savunma teknolojileri
-- **Eğitim:** Bilgisayar Mühendisliği, Eskişehir Teknik Üniversitesi — GPA 3.39 / 4.00
+- **Eğitim:** Bilgisayar Mühendisliği, Eskişehir Teknik Üniversitesi
 - **Diller:** Türkçe (ana dil), İngilizce (C1)
 
 ---
@@ -52,11 +52,23 @@
 
 ---
 
-### GitHub İstatistikleri
+### Teknoloji Yığını
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LordPancar&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordPancar&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
