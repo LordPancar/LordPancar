@@ -1,0 +1,37 @@
+name: Katki yilani olustur
+
+on:
+  # Her gun gece yarisi (UTC) otomatik yenile
+  schedule:
+    - cron: "0 0 * * *"
+  # Elle tetiklenebilir
+  workflow_dispatch:
+  # main'e her push'ta da yenile
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Yilan SVG uret
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: output dalina yayinla
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

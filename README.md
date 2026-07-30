@@ -8,9 +8,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sancar-erdogan-152ba92b2">LinkedIn</a> ·
-  <a href="mailto:sssancarerdogan@gmail.com">E-posta</a> ·
-  Eskişehir, Türkiye
+  <a href="https://www.linkedin.com/in/sancar-erdogan-152ba92b2">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sssancarerdogan@gmail.com">
+    <img src="https://img.shields.io/badge/E--posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" />
+  </a>
+  <a href="https://github.com/LordPancar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LordPancar&style=for-the-badge&color=58A6FF&label=Profil+G%C3%B6r%C3%BCnt%C3%BCleme" alt="Profil görüntüleme" />
 </p>
 
 ---
@@ -57,20 +67,21 @@
 ### Teknoloji Yığını
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,c,docker,redis,rabbitmq,postgres,unity,git,linux&perline=6" alt="Teknolojiler" />
+  </a>
 </p>
+
+---
+
+### Katkı Grafiği
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LordPancar/LordPancar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LordPancar/LordPancar/output/github-contribution-grid-snake.svg" />
+    <img alt="Katkı grafiği yılanı" src="https://raw.githubusercontent.com/LordPancar/LordPancar/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
