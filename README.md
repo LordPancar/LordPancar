@@ -1,8 +1,8 @@
-<h1 align="center">Merhaba, ben Sancar </h1>
+<h1 align="center">Merhaba, ben Sancar 👋</h1>
 
 <p align="center">
   <b>Bilgisayar Mühendisliği öğrencisi</b> · Eskişehir Teknik Üniversitesi (2022–2026)<br>
-  Java, C#, Python ve .NET ile yazılım geliştiriyorum; yapay zekâ, sistem programlama ve veri bilimi alanlarına ilgi duyuyorum.
+  Java, C#, Python ve .NET ile yazılım geliştiriyorum; yapay zekâ, dağıtık sistemler ve sistem programlama alanlarına ilgi duyuyorum.
 </p>
 
 <p align="center">
@@ -13,10 +13,10 @@
 
 ---
 
-###  Hakkımda
+### Hakkımda
 
 - **Şu sıralar:** TEI (TUSAŞ Engine Industries) bünyesinde yaz stajı yapıyorum
-- **Odağım:** yapay zekâ / makine öğrenmesi, yazılım mimarisi, veri tabanı yönetimi ve savunma teknolojileri
+- **Odağım:** yapay zekâ / makine öğrenmesi, dağıtık sistemler, yazılım mimarisi ve savunma teknolojileri
 - **Eğitim:** Bilgisayar Mühendisliği, Eskişehir Teknik Üniversitesi — GPA 3.39 / 4.00
 - **Diller:** Türkçe (ana dil), İngilizce (C1)
 
@@ -24,9 +24,9 @@
 
 ### 🛠️ Yetenekler
 
-**Diller:** Java · C# · Python · C
-**Teknolojiler:** .NET · SQL · Git · Linux · REST API
-**Kavramlar:** OOP · Design Patterns · Yazılım Mimarisi · Makine Öğrenmesi
+**Diller:** C# · Java · Python · C
+**Teknolojiler:** .NET · Docker · Redis · RabbitMQ · PostgreSQL · SignalR · Unity · Git · Linux
+**Kavramlar:** Dağıtık Sistemler · OOP · Design Patterns · Yazılım Mimarisi · Makine Öğrenmesi · Karar Destek Sistemleri
 
 ---
 
@@ -42,11 +42,13 @@
 
 | Proje | Açıklama |
 |-------|----------|
-| [**pmbok-proje-degerlendirme**](https://github.com/LordPancar/pmbok-proje-degerlendirme) | PMBOK'a hizalı 10 kriter üzerinden proje değerlendiren YZ destekli karar destek sistemi — yerel LLM (Ollama) + AHP + TOPSIS, Streamlit arayüzü. |
-| [**Skyring_Mage**](https://github.com/LordPancar/Skyring_Mage) | Unity & C# ile geliştirilen, fizik tabanlı mekaniklere sahip 3D arena savaş oyunu. |
-| [**TF141-OS**](https://github.com/LordPancar/TF141-OS) | C# ile geliştirilen masaüstü/uygulama projesi. |
+| [**MatchmakingSystem**](https://github.com/LordPancar/MatchmakingSystem) | Yatay ölçeklenen dağıtık eşleştirme sistemi: JWT kimlik doğrulama, Elo tabanlı sıralama merdiveni ve Redis'te Lua ile atomik eşleştirme sayesinde çok sayıda worker'ın yarışmadan çalışması. `.NET 10` · `RabbitMQ` · `Redis` · `PostgreSQL` · `SignalR` · `Docker` |
+| [**pmbok-proje-degerlendirme**](https://github.com/LordPancar/pmbok-proje-degerlendirme) | PMBOK'a hizalı 10 kriter üzerinden proje değerlendiren YZ destekli karar destek sistemi — yerel LLM (Ollama) + AHP + TOPSIS, Streamlit arayüzü. `Python` |
+| [**TF141-OS**](https://github.com/LordPancar/TF141-OS) | LAN ve VPN (ZeroTier/Radmin) üzerindeki paylaşımlı klasörleri yöneten C# CLI aracı: ping tabanlı anti-freeze bağlantı kontrolü, hızlı dosya transferi ve `FileSystemWatcher` ile gerçek zamanlı sohbet. `C#` |
+| [**GoodbyeDPI-Turkey-Tray**](https://github.com/LordPancar/GoodbyeDPI-Turkey-Tray) | GoodbyeDPI'ın Türkiye sürümüne sistem tepsisinden tek tıkla aç/kapat yapan arayüz ekleyen fork. `PowerShell` · `Windows` |
+| [**Skyring_Mage**](https://github.com/LordPancar/Skyring_Mage) | Unity & C# ile geliştirilen, fizik tabanlı mekaniklere sahip 3D arena savaş oyunu. `Unity` · `C#` |
 
-> Ayrıca: tarımsal verim tahmini (regresyon), VGG16/VGG19 derin öğrenme karşılaştırması ve C ile yazılmış SQLite benchmark aracı gibi akademik projeler.
+> Ayrıca: otel ve sinema rezervasyon sistemleri (C#/Java), tarımsal verim tahmini (regresyon), VGG16/VGG19 derin öğrenme karşılaştırması ve C ile yazılmış SQLite benchmark aracı gibi projeler.
 
 ---
 
@@ -59,4 +61,4 @@
 
 ---
 
-<p align="center"><i>Bir şeyler yapıyoruz işte 🙂</i></p>
+<p align="center"><i>Öğrenmeye ve üretmeye devam. 🚀</i></p>
